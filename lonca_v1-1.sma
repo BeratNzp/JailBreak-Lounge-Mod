@@ -30,7 +30,7 @@ new yeniayrilma[33];
 
 new lonca1[]="The Rookies" // Caylaklar
 new lonca2[]="The Killers" // Katiller
-new lonca3[]="The Destroyers" // Yýkýcýlar
+new lonca3[]="The Destroyers" // Yï¿½kï¿½cï¿½lar
 new lonca4[]="The Royals" // Kraliyet Ailesi
 
 new lonca1tag[]="TR"
