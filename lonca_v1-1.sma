@@ -740,3 +740,4 @@ public loncabilgiislem(id,bind2)
 		}
 	}
 }
+//
